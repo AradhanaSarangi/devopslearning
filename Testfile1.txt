@@ -1,3 +1,4 @@
 this is my first file
 This is the second line we have added
 This line is added at GIT Hub website and will be tested as part of Fetch Functionality.
+This is check git merge and this line is written at GitHub
